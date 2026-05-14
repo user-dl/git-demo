@@ -7,7 +7,7 @@
 #     else:
 #         newlist.append(x)
 #         write1()
-    
+    #testcommit
 # print(write1())
 newlist = []
 def validation(text):
