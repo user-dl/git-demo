@@ -8,6 +8,8 @@
 #         newlist.append(x)
 #         write1()
     #testcommit
+
+    #testing git gui
 # print(write1())
 newlist = []
 def validation(text):
