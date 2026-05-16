@@ -18,5 +18,3 @@ if input() == "пака":
     print("пака")
 #--------------------------------------------------------
 
-# we are trying our best so that we can make it work and we are doing it together
-#second one hehehe
