@@ -17,4 +17,5 @@ print(f"СЬогодні ти будеш:  {random.choice(newlist)}")
 if input() == "пака":
     print("пака")
 #--------------------------------------------------------
-
+#conflict solving 
+# fr0wofjeiorjejfroierjoreji master branch 
