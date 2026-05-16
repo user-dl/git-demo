@@ -19,3 +19,5 @@ if input() == "пака":
 #--------------------------------------------------------
 #conflict solving 
 # fr0wofjeiorjejfroierjoreji master branch 
+
+#alabuge hueta 
